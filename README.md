@@ -1,4 +1,4 @@
-# AI Context Bridge — Legal
+# WideRelay — Legal
 
 Public privacy policy for Chrome Web Store / Edge Add-ons.
 
